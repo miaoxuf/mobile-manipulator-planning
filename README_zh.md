@@ -51,6 +51,23 @@ run_demo.m   命令行入口
 mm_planner_gui.m
 ```
 
+## 引用
+
+如果本代码对你的研究有帮助，请引用我们的论文：
+
+```bibtex
+@article{fang2025path,
+  title   = {Path planning for mobile manipulator based on energy consumption and grasping accuracy constraints},
+  author  = {Fang, Miaoxu and Xu, Zhen and Gai, Yizhou and Ye, Dabin and Liu, Tao and Tan, Ping and Tan, Kai},
+  journal = {AIP Advances},
+  volume  = {15},
+  number  = {12},
+  pages   = {125335},
+  year    = {2025},
+  doi     = {10.1063/5.0292185}
+}
+```
+
 ## 许可证
 
 [MIT](LICENSE)
