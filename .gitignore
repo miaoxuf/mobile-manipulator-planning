@@ -1,0 +1,40 @@
+# generated output
+results/
+
+# MATLAB artefacts
+*.asv
+*.autosave
+*.mex*
+slprj/
+codegen/
+*.slxc
+
+# keep the repository code-only: no data, figures or documents
+*.mat
+*.fig
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pdf
+*.eps
+*.svg
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.csv
+*.ppt
+*.pptx
+*.zip
+*.rar
+*.7z
+*.mltbx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
