@@ -2,16 +2,7 @@
 
 [English](README.md) | 中文
 
-面向栅格化仓库货物抓取的移动机械臂路径规划，兼顾能耗与抓取精度，基于 MATLAB 实现。本仓库为论文 *Path planning for mobile manipulator based on energy consumption and grasping accuracy constraints* 的代码。
-
-## 特性
-
-- 支持任意 D-H 参数描述的串联机械臂（标准 / 改进 D-H）
-- 根据机械臂工作空间和到货物的视线遮挡筛选站位点
-- 机械臂轨迹优化：迭代动态规划 + 遗传算法 + 零空间精修
-- 考虑朝向的 A* / Dijkstra，求解移动平台最小能耗路径
-- 对“站位点 × 朝向”做精确分支定界，规划耗时不到 1 秒
-- 自带论文级绘图与交互式 GUI，不依赖任何工具箱
+面向栅格化仓库货物抓取的移动机械臂路径规划，兼顾能耗与抓取精度，基于 MATLAB 实现。本仓库为论文 *Path planning for mobile manipulator based on energy consumption and grasping accuracy constraints* 的优化代码。
 
 ## 环境
 

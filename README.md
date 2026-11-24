@@ -2,16 +2,7 @@
 
 English | [中文](README_zh.md)
 
-Energy- and accuracy-aware path planning for a mobile manipulator grasping goods in a grid warehouse, implemented in MATLAB. This is the code of our paper *Path planning for mobile manipulator based on energy consumption and grasping accuracy constraints*.
-
-## Features
-
-- Works with any serial arm given by a D-H table (standard / modified)
-- Station selection from the arm workspace and line of sight to the goods
-- Arm trajectory optimisation: iterative dynamic programming + genetic algorithm + null-space refinement
-- Minimum-energy platform paths with a heading-aware A* / Dijkstra
-- Exact branch and bound over stations and headings, sub-second planning
-- Publication-ready figures and an interactive GUI; no toolbox required
+Energy- and accuracy-aware path planning for a mobile manipulator grasping goods in a grid warehouse, implemented in MATLAB. This repository contains the optimized code of our paper *Path planning for mobile manipulator based on energy consumption and grasping accuracy constraints*.
 
 ## Requirements
 
